@@ -1,3 +1,6 @@
 **/.DS_Store
 **/*.abi
 **/*.bin
+
+# For java contract file
+com/*
